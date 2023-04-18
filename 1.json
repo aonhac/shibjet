@@ -1,7 +1,7 @@
 {
     "name": "Shib Jet",
     "description": "Shib Jet",
-    "image_url": "",
+    "image_url": "https://raw.githubusercontent.com/aonhac/shibjet/main/1.jpg",
     "attributes": [
         {
           "trait_type": "class", 
