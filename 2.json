@@ -1,0 +1,16 @@
+{
+    "name": "Shib Jet 2",
+    "description": "Shib Jet",
+    "image_url": "",
+    "attributes": [
+        {
+          "trait_type": "class", 
+          "value": "dragon"
+        }, 
+        {
+            "display_type": "date", 
+            "trait_type": "birthday", 
+            "value": 1624955102
+        }        
+      ]
+}
